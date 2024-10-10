@@ -1,6 +1,6 @@
 # URL_SERVICE хранит базовый URL веб-сервиса, который используется для доступа к API или другим ресурсам.
 # В значении должен быть указан актуальный адрес стенда.
-URL_SERVICE = "https://27418161-edab-4d23-ac70-33822ab6d93a.serverhub.praktikum-services.ru"
+URL_SERVICE = "https://928c4602-e0db-4b56-a66d-253c46a908e7.serverhub.praktikum-services.ru"
 
 # CREATE_NEW_ORDER хранит путь к API-методу для создания нового заказа.
 # Этот путь используется для формирования полного URL-адреса в сочетании с базовым URL сервиса,
